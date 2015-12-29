@@ -3,7 +3,7 @@ description:
 meta_description: "Sharon Hammes"
 
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 
 baseurl: '/'
 

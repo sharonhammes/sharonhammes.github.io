@@ -1,6 +1,6 @@
-name: Ewerton Nascimento
+name: Sharon Hammes
 description: 
-meta_description: "Ewerton Nascimento"
+meta_description: "Sharon Hammes"
 
 markdown: redcarpet
 highlighter: true
@@ -13,7 +13,7 @@ permalink: /:title
 
 
 # Details for the RSS feed generator
-url:            'ewertonorg.github.io'
-author:         'Ewerton Nascimento'
+url:            'sharonhammes.com'
+author:         'Sharon Hammes'
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  Manor House Anthology: (1) Leroy Brown
 date:   2016-01-17
 categories:     blog
-___
+---
 
 When I was a teenager I played organ for my local Catholic Church.
 The church led a religious service once a month for each of the local nursing homes.  

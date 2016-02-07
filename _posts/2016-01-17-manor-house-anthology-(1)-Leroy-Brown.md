@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Manor House Anthology: (1) Leroy Brown
+title:  Manor House Anthology - (1) Leroy Brown
 date:   2016-01-17
 categories:     blog
 ---

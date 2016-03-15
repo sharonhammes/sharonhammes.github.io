@@ -5,7 +5,7 @@ date:   2016-01-17
 categories:     blog
 ---
 
-When I was a teenager I played organ for my local Catholic Church.
+When I was a teenager I played organ for my local Catholic Church. 
 The church led a religious service once a month for each of the local nursing homes.
 I would play piano and accompany the singers during the service.
 It was a chance to hone my piano skills and learn the old classic Protestant hymns often requested by the residents.
